@@ -1,4 +1,4 @@
-<h1 align="center">Sup! I´m Vitor Andrey, nice to meet you!✌<h1>
+<h1 align="center">Hi! I´m Vitor Andrey, nice to meet you!✌<h1>
 
 <div align="center">
   <a href="https://github.com/VitorAndrey">
