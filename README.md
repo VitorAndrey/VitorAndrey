@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I´m Vitor Andrey, nice to meet you!✌<h1>
+<h1 align="center">Hi! I´m Vitor Andrey, nice to meet you!<h1>
 
 <div align="center">
   <a href="https://github.com/VitorAndrey">
@@ -16,5 +16,4 @@
 <div>
   <a href="https://www.linkedin.com/in/vitor-andrey-lopes-santos-87374b248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/vitorandrey_biz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:vitor.andreylopess@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
