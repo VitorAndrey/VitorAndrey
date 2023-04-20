@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=37306B&size=35&center=true&vCenter=true&width=1000&lines=I'm+17+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VitorAndrey&bg_color=37306B&color=66347F&line=66347F&point=D27685&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VitorAndrey&bg_color=37306B&color=D14D72&line=66347F&point=D27685&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
