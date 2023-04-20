@@ -1,6 +1,5 @@
 <h1>Hello! I'm Vitor, nice to meet you!✋</h1>
 
-##
 
 <div align="center">
   <a href="https://github.com/VitorAndrey">
