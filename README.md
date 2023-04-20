@@ -10,14 +10,14 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VitorAndrey&theme=palenight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VitorAndrey&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VitorAndrey&show_icons=true&count_private=true&hide_border=true&title_color=576CBC&icon_color=ff91a4&text_color=A5D7E8&bg_color=0B2447" alt="Vitor Andrey github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAndrey&layout=compact&hide_border=true&title_color=576CBC&text_color=A5D7E8&bg_color=0B2447" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VitorAndrey&show_icons=true&count_private=true&hide_border=true&title_color=576CBC&icon_color=ff91a4&text_color=A5D7E8&bg_color=0B2447" alt="Vitor Andrey github stats" /> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAndrey&layout=compact&hide_border=true&title_color=576CBC&text_color=A5D7E8&bg_color=0B2447" />
 </div>
 
 
