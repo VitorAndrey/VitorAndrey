@@ -27,10 +27,14 @@
 
 <br />
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 #
-<br />
+
 <br />
 <h3 align="center">🖥️ technologies and Tools</h3>
 <br />
@@ -46,9 +50,9 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title = "Next"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "Node"/></code>
 </p>
+<br />
 
 #
-<br />
 <br />
 
 <p align="center">
@@ -59,8 +63,9 @@
 </a>
 </p>
 
-#
 <br />
+
+#
 <br />
 <h3 align="center">Connect with me</h3>
 <br />
@@ -69,7 +74,7 @@
 <a href = "mailto:vitor.andreylopess@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vitor-andrey-676869271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
- 
+ <br />
 
 
 
