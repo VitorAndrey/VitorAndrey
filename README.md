@@ -1,9 +1,8 @@
 [![MasterHead]([your image link](https://wallpapercave.com/wp/wp9109485.jpg))]([your GitHub link](https://github.com/VitorAndrey))
 
 <div align="center">
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAndrey)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VitorAndrey)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+
 </div>
   
 <div>
