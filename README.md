@@ -21,13 +21,14 @@
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-
+#
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VitorAndrey&show_icons=true&count_private=true&hide_border=true&title_color=576CBC&icon_color=ff91a4&text_color=A5D7E8&bg_color=0B2447" alt="Vitor Andrey github stats" /> 
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAndrey&layout=compact&hide_border=true&title_color=576CBC&text_color=A5D7E8&bg_color=0B2447" />
 </div>
 
+#
 
 <div align="center"> 
 <a href="https://instagram.com/vitorandrey_biz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
