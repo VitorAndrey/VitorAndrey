@@ -31,7 +31,7 @@
 ![snake gif](https://github.com/VitorAndrey/VitorAndrey/blob/output/github-contribution-grid-snake.svg)
  
 <div >
-  <br />
+<br />
 
 
 #
@@ -39,34 +39,35 @@
 <br />
 <h3 align="center">🖥️ technologies and Tools</h3>
 <br />
+<p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorAndrey&layout=compact&langs_count=8&theme=algolia"/></p>
+<br />
+ 
 <p align="center">
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title = "Tailwind"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title = "javascript"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title = "Typescript"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "git"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "Github"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "React"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title = "Next"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "Node"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title = "HTML5"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title = "CSS3"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title = "Tailwind"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title = "javascript"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title = "Typescript"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "git"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "Github"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "React"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title = "Next"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "Node"/></code>
 </p>
 <br />
 
 #
+ 
 <br />
-
-<p align="center">
- <a href="https://github.com/VitorAndrey">
-   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VitorAndrey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorAndrey&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/VitorAndrey" align="center">
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VitorAndrey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorandrey&theme=algolia" alt="vitorandrey" />
 </a>
-</p>
-
 <br />
 
 #
+ 
+
 <br />
 <h3 align="center">Connect with me</h3>
 <br />
