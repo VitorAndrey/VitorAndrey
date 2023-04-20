@@ -24,14 +24,15 @@
 
 - ⚡ Fun fact **Gym and Code are enough to make me happy.**
 
-
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<div align="center"> 
+
+![snake gif](https://github.com/VitorAndrey/VitorAndrey/blob/output/github-contribution-grid-snake.svg)
+ 
+<div >
+  <br />
+
 
 #
 
