@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi there, my name is Vitor!👋</h1>
-<img width=100% src="https://cutewallpaper.org/22x/dq8ao14tw/1899432734.jpg" />
+<img width=300px src="https://cutewallpaper.org/22x/dq8ao14tw/1899432734.jpg" />
 <br />
 <br />
 
