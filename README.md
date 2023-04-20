@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi there, my name is Vitor!👋</h1>
-
+<img width=100% src="https://cutewallpaper.org/22x/dq8ao14tw/1899432734.jpg" />
 <br />
 <br />
 
@@ -17,7 +17,7 @@
 <br />
 <br />
 
- ### 🖥️ Tecnologias e Ferramentas: 
+ ### 🖥️ Technologys and Tools: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
