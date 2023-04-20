@@ -31,10 +31,12 @@
 <br />
 <br />
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VitorAndrey&show_icons=true&count_private=true&hide_border=true&title_color=576CBC&icon_color=ff91a4&text_color=A5D7E8&bg_color=0B2447" alt="Vitor Andrey github stats" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAndrey&layout=compact&hide_border=true&title_color=576CBC&text_color=A5D7E8&bg_color=0B2447" />
-</div>
+<p align="center">
+<a href="https://github.com/VitorAndrey">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VitorAndrey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorAndrey&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 #
 <br />
