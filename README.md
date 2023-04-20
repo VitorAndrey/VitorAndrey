@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=37306B&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A5D7E8&height=120&section=header"/>
 
 <h1 align="center">Hi! I'm Vitor, nice to meet you 👋</h1>
 
@@ -6,9 +6,9 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=37306B&size=35&center=true&vCenter=true&width=1000&lines=I'm+17+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19376D&size=35&center=true&vCenter=true&width=1000&lines=I'm+17+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VitorAndrey&bg_color=37306B&color=D14D72&line=66347F&point=D27685&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VitorAndrey&bg_color=0B2447&color=A5D7E8&line=576CBC&point=A5D7E8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
@@ -18,8 +18,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VitorAndrey&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=D14D72&bg_color=0d1117" alt="Vitor Andrey github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAndrey&layout=compact&hide_border=true&title_color=ff91a4&text_color=D14D72&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VitorAndrey&show_icons=true&count_private=true&hide_border=true&title_color=576CBC&icon_color=ff91a4&text_color=A5D7E8&bg_color=0B2447" alt="Vitor Andrey github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAndrey&layout=compact&hide_border=true&title_color=576CBC&text_color=A5D7E8&bg_color=0B2447" />
 </div>
 
 
@@ -48,5 +48,5 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=37306B&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A5D7E8&height=120&section=footer"/>
 
