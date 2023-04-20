@@ -61,7 +61,6 @@
 <br />
 <a href="https://github.com/VitorAndrey" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorAndrey&show_icons=true&theme=algolia" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorandrey&theme=algolia" alt="vitorandrey" />
 </a>
 <br />
 
