@@ -16,8 +16,8 @@
 
 
 <div align="center">  
-  <img width="300px" height="195px" src="https://github-readme-stats.vercel.app/api?username=VitorAndrey&show_icons=true&count_private=true&hide_border=true&title_color=576CBC&icon_color=ff91a4&text_color=A5D7E8&bg_color=0B2447" alt="Vitor Andrey github stats" /> 
-  <img width="300px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAndrey&layout=compact&hide_border=true&title_color=576CBC&text_color=A5D7E8&bg_color=0B2447" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VitorAndrey&show_icons=true&count_private=true&hide_border=true&title_color=576CBC&icon_color=ff91a4&text_color=A5D7E8&bg_color=0B2447" alt="Vitor Andrey github stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAndrey&layout=compact&hide_border=true&title_color=576CBC&text_color=A5D7E8&bg_color=0B2447" />
 </div>
 
 
