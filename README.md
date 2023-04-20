@@ -4,7 +4,7 @@
 <h1 align="center">Hi there, my name is Vitor!👋</h1>
   
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19376D&size=35&center=true&vCenter=true&width=1000&lines=I'm+17+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Droid+Sans+Mono&pause=1000&color=19376D&center=true&vCenter=true&width=435&lines=Nice+to+meet+you!;%3CImfromBrazil+%2F%3E;ReallyLoveToCode.tsx;%3CVitor+className%3D%2217-years-old%22%3E%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3C%2FVitor%3E)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VitorAndrey&bg_color=0B2447&color=A5D7E8&line=576CBC&point=A5D7E8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
