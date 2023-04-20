@@ -8,6 +8,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Droid+Sans+Mono&pause=1000&color=19376D&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you!;%3CImfromBrazil+%2F%3E;ReallyLoveToCode.tsx;%3CVitor+className%3D%2217-years-old%22%3E%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3C%2FVitor%3E)](https://git.io/typing-svg)
 
+<br />
+<br />
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VitorAndrey&bg_color=0B2447&color=A5D7E8&line=576CBC&point=A5D7E8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #
@@ -15,7 +18,6 @@
 <br />
 
  ### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
