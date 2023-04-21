@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vitor Andrey</h1>
 <br />
 
-<img width="200em" align="right" src="https://user-images.githubusercontent.com/114686823/233509824-176d49c0-b780-4e73-9295-8bbc2eabd7b0.png" />
+<div align="center">
+<img width="200em" src="https://user-images.githubusercontent.com/114686823/233509824-176d49c0-b780-4e73-9295-8bbc2eabd7b0.png" />
+</div>
 <br/>
-
-<p>
+ 
+ <p>
  Welcome to my GitHub profile! I'm a technology enthusiast passionate about software development and programming in general. Here you'll find a variety of projects I've been working on. Feel free to explore and follow me to stay up-to-date on my activities in the programming world.
 </p>
 <br/>
