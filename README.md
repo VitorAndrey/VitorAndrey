@@ -11,7 +11,7 @@
 </p>
 <br/>
 
-- 🔭 I’m currently working on Portal newsletter at https://portal-newsletter-tecinfo.vercel.app/
+- 🔭 I’m currently working on Network News at https://network-news.vercel.app/
 
 - 💬 Ask me about **How we can work together**
 
