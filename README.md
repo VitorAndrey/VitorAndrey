@@ -11,7 +11,7 @@
 </p>
 <br/>
 
-- 🔭 I’m currently working on Network News at [go](https://network-news.vercel.app/){:target="_blank"}
+- 🔭 I’m currently working on Network News at https://network-news.vercel.app/
 - 💬 Ask me about **How we can work together**
 
 - 📫 How to reach me **vitor.andreylopess@gmail.com**
