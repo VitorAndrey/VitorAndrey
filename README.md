@@ -60,8 +60,5 @@
  </div>
 <br />
 
-<div align="center">
- 
-![snake gif](https://github.com/VitorAndrey/VitorAndrey/blob/output/github-contribution-grid-snake.svg)
  
 <div >
