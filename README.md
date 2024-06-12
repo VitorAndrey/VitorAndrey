@@ -11,10 +11,7 @@
 </p>
 <br/>
 
-- 🔭 I’m currently working on Network News at https://network-news.vercel.app/
-- 💬 Ask me about **How we can work together**
-
-- 📫 How to reach me **vitor.andreylopess@gmail.com**
+- 📫 How to reach me **vitor.andreylopes@gmail.com**
 
 - ⚡ Fun fact **Gym and Code are enough to make me happy.**
 <br />
