@@ -23,7 +23,7 @@ I began my programming journey as a kid with block-based game development in MIT
 
 ### 📗 NetworkNews - News Letters
 
-- [Find Awesome News and Articles About the Tech World!](https://network-news.vercel.app/)
+- [Find Awesome News and Articles About the Tech World!](https://network-news.vercel.app/projects)
 
 ---
 
