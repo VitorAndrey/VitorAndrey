@@ -23,9 +23,7 @@ I began my programming journey as a kid with block-based game development in MIT
 
 ### 📗 NetworkNews - News Letters
 
-<!-- BLOG-POSTS:START -->
 - [Find Awesome News and Articles About the Tech World!](https://network-news.vercel.app/)
-<!-- BLOG-POSTS:END -->
 
 ---
 
@@ -52,5 +50,4 @@ src="https://img.shields.io/github/followers/VitorAndrey?logo=github&style=for-t
     <a href="http://www.github.com/VitorAndrey"><img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=VitorAndrey&stroke=ffffff&background=1c1917&ring=1A61E7&fire=f03c2e&currStreakNum=ffffff&currStreakLabel=1A61E7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=450" alt="More of VitorAndrey's GitHub stats" /></a>
     <br />
     <br />
-<!--     <a href="http://www.github.com/VitorAndrey"><img height=220 src="https://github-profile-trophy.vercel.app/?username=VitorAndrey&no-frame=true&theme=discord" alt="More of VitorAndrey's GitHub stats" /></a> -->
 </details>
