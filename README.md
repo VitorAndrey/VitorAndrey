@@ -41,14 +41,6 @@ I began my programming journey as a kid with block-based game development in MIT
         <img src="https://placehold.co/600x400" width="200" alt="Descrição da primeira imagem">
         <span>Subtítulo do primeiro post</span>
     </a>
-    <a href="URL_DO_SEGUNDO_POST" style="display: flex; flex-direction: column">
-        <img src="https://placehold.co/600x400" width="200" alt="Descrição da segunda imagem">
-        <span>Subtítulo do segundo post</span>
-    </a>
-    <a href="URL_DO_TERCEIRO_POST" style="display: flex; flex-direction: column">
-        <img src="https://placehold.co/600x400" width="200" alt="Descrição da terceira imagem">
-        <span>Subtítulo do terceiro post</span>
-    </a>
 </p>
 <!-- END LINKEDIN-CARDS -->
 
