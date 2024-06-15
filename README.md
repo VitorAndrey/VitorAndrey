@@ -49,7 +49,7 @@ src="https://img.shields.io/github/followers/VitorAndrey?logo=github&style=for-t
     <br />
     <a href="http://www.github.com/VitorAndrey"><img height=160 src="https://github-readme-stats.vercel.app/api?username=VitorAndrey&show_icons=true&count_private=true&title_color=1A61E7&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true&card_width=450" alt="VitorAndrey's GitHub stats" /></a>
     <a href="http://www.github.com/VitorAndrey"><img height=160 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorAndrey&hide=css,html&layout=compact&langs_count=8&card_width=400&title_color=1A61E7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="More of VitorAndrey's GitHub stats" /></a>
-    <a href="http://www.github.com/VitorAndrey"><img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=VitorAndrey&stroke=ffffff&background=1c1917&ring=1A61E7&fire=1A61E7&currStreakNum=ffffff&currStreakLabel=1A61E7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=450" alt="More of VitorAndrey's GitHub stats" /></a>
+    <a href="http://www.github.com/VitorAndrey"><img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=VitorAndrey&stroke=ffffff&background=1c1917&ring=1A61E7&fire=f03c2e&currStreakNum=ffffff&currStreakLabel=1A61E7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=450" alt="More of VitorAndrey's GitHub stats" /></a>
     <br />
     <br />
 <!--     <a href="http://www.github.com/VitorAndrey"><img height=220 src="https://github-profile-trophy.vercel.app/?username=VitorAndrey&no-frame=true&theme=discord" alt="More of VitorAndrey's GitHub stats" /></a> -->
