@@ -17,14 +17,6 @@
    <a href="http://www.instagram.com/vitor_andrey_ls" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="24" height="24" /> </picture> </a>
 </p>
 
-### ⭐ GitHub
-
-<p>
-    <a href="https://www.github.com/VitorAndrey" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/VitorAndrey?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-    <a href="https://github.com/VitorAndrey?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/VitorAndrey?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
-
 ---
 
 ### ✨ About me
@@ -50,12 +42,17 @@ I began my programming journey as a kid with block-based game development in MIT
 <br />
 
 <details open>
-    <summary><b>📈 My GitHub Stats</b></summary>
+    <summary><b>⭐ GitHub Stats</b></summary>
+    <br />
+        <a href="https://www.github.com/VitorAndrey" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/VitorAndrey?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+        <a href="https://github.com/VitorAndrey?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/VitorAndrey?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <br />
     <br />
     <a href="http://www.github.com/VitorAndrey"><img height=160 src="https://github-readme-stats.vercel.app/api?username=VitorAndrey&show_icons=true&count_private=true&title_color=7289DA&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true&card_width=450" alt="VitorAndrey's GitHub stats" /></a>
     <a href="http://www.github.com/VitorAndrey"><img height=160 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorAndrey&hide=css,html&layout=compact&langs_count=8&card_width=400&title_color=7289DA&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="More of VitorAndrey's GitHub stats" /></a>
     <a href="http://www.github.com/VitorAndrey"><img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=VitorAndrey&stroke=ffffff&background=1c1917&ring=7289DA&fire=7289DA&currStreakNum=ffffff&currStreakLabel=7289DA&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=450" alt="More of VitorAndrey's GitHub stats" /></a>
-    <br>
-    <br>
+    <br />
+    <br />
     <a href="http://www.github.com/VitorAndrey"><img height=220 src="https://github-profile-trophy.vercel.app/?username=VitorAndrey&no-frame=true&theme=discord" alt="More of VitorAndrey's GitHub stats" /></a>
 </details>
