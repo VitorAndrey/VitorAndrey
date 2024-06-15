@@ -41,7 +41,7 @@ I began my programming journey as a kid with block-based game development in MIT
 
 <br />
 
-<details open>
+<details>
     <summary><b>⭐ GitHub Stats</b></summary>
     <br />
         <a href="https://www.github.com/VitorAndrey" target="_blank" rel="noreferrer"><img
