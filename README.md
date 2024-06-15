@@ -31,20 +31,6 @@ src="https://img.shields.io/github/followers/VitorAndrey?logo=github&style=for-t
 
 I began my programming journey as a kid with block-based game development in MIT App Inventor, driven by a curiosity for technology, a passion for problem-solving, and, of course, a love for playing computer games 😅. My software development experience spans coding for mobile, web, and desktop applications, primarily within the JavaScript ecosystem. I specialize in technologies such as Next.js, React Native, Node.js, and Electron.js, utilizing their extensive libraries and leveraging the unique features of the JavaScript environment. I wouldn't be surprised if a library for my toaster emerges soon! 😂
 
----
-
-### 🎬 Relevant Linkedin Posts
-
-<!-- BEGIN LINKEDIN-CARDS -->
-<p align="left">
-    <a href="URL_DO_PRIMEIRO_POST" style="display: flex; flex-direction: column">
-        <img src="https://placehold.co/600x400" width="200" alt="Descrição da primeira imagem">
-        <span>Subtítulo do primeiro post</span>
-    </a>
-</p>
-<!-- END LINKEDIN-CARDS -->
-
-
 ### 📗 NetworkNews - News Letters
 
 <!-- BLOG-POSTS:START -->
