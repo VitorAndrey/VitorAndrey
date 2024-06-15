@@ -17,11 +17,12 @@
    <a href="http://www.instagram.com/vitor_andrey_ls" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="24" height="24" /> </picture> </a>
 </p>
 
+### ⭐ GitHub
+
 <p>
     <a href="https://www.github.com/VitorAndrey" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/VitorAndrey?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://github.com/VitorAndrey?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/VitorAndrey?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <a href="https://github.com/VitorAndrey?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/VitorAndrey?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
 ---
