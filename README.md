@@ -39,7 +39,7 @@ I began my programming journey as a kid with block-based game development in MIT
 
 <br />
 
-<details>
+<details open>
     <summary><b>⭐ GitHub Stats</b></summary>
     <br />
         <a href="https://www.github.com/VitorAndrey" target="_blank" rel="noreferrer"><img
@@ -52,5 +52,5 @@ src="https://img.shields.io/github/followers/VitorAndrey?logo=github&style=for-t
     <a href="http://www.github.com/VitorAndrey"><img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=VitorAndrey&stroke=ffffff&background=1c1917&ring=7289DA&fire=7289DA&currStreakNum=ffffff&currStreakLabel=7289DA&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=450" alt="More of VitorAndrey's GitHub stats" /></a>
     <br />
     <br />
-    <a href="http://www.github.com/VitorAndrey"><img height=220 src="https://github-profile-trophy.vercel.app/?username=VitorAndrey&no-frame=true&theme=discord" alt="More of VitorAndrey's GitHub stats" /></a>
+<!--     <a href="http://www.github.com/VitorAndrey"><img height=220 src="https://github-profile-trophy.vercel.app/?username=VitorAndrey&no-frame=true&theme=discord" alt="More of VitorAndrey's GitHub stats" /></a> -->
 </details>
