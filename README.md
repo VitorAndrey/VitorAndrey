@@ -33,7 +33,7 @@ I began my programming journey as a kid with block-based game development in MIT
 
 ---
 
-### 🎬 Latest Linkedin Posts
+### 🎬 Relevant Linkedin Posts
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![The Survey, NuPhy Air75 v2 and The PARA Method](https://ytcards.demolab.com/?id=Y_1rRCQ-vBs&title=The+Survey%2C+NuPhy+Air75+v2+and+The+PARA+Method&lang=en&timestamp=1718443810&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=272 "The Survey, NuPhy Air75 v2 and The PARA Method")](https://www.youtube.com/watch?v=Y_1rRCQ-vBs)
@@ -66,10 +66,10 @@ I began my programming journey as a kid with block-based game development in MIT
 <details open>
     <summary><b>📈 My GitHub Stats</b></summary>
     <br />
-    <a href="http://www.github.com/VitorAndrey"><img height=180 src="https://github-readme-stats.vercel.app/api?username=VitorAndrey&show_icons=true&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true&card_width=450" alt="VitorAndrey's GitHub stats" /></a>
-    <a href="http://www.github.com/VitorAndrey"><img height=180 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorAndrey&hide=css,html&layout=compact&langs_count=8&card_width=400&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="More of VitorAndrey's GitHub stats" /></a>
-    <a href="http://www.github.com/VitorAndrey"><img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=VitorAndrey&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=450" alt="More of VitorAndrey's GitHub stats" /></a>
+    <a href="http://www.github.com/VitorAndrey"><img height=180 src="https://github-readme-stats.vercel.app/api?username=VitorAndrey&show_icons=true&count_private=true&title_color=7289DA&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true&card_width=450" alt="VitorAndrey's GitHub stats" /></a>
+    <a href="http://www.github.com/VitorAndrey"><img height=180 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorAndrey&hide=css,html&layout=compact&langs_count=8&card_width=400&title_color=7289DA&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="More of VitorAndrey's GitHub stats" /></a>
+    <a href="http://www.github.com/VitorAndrey"><img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=VitorAndrey&stroke=ffffff&background=1c1917&ring=7289DA&fire=7289DA&currStreakNum=ffffff&currStreakLabel=7289DA&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=450" alt="More of VitorAndrey's GitHub stats" /></a>
     <br>
     <br>
-    <a href="http://www.github.com/VitorAndrey"><img height=180 src="https://github-profile-trophy.vercel.app/?username=VitorAndrey" alt="More of VitorAndrey's GitHub stats" /></a>
+    <a href="http://www.github.com/VitorAndrey"><img height=220 src="https://github-profile-trophy.vercel.app/?username=VitorAndrey&no-frame=true&theme=discord" alt="More of VitorAndrey's GitHub stats" /></a>
 </details>
