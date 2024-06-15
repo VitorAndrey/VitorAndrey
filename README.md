@@ -35,14 +35,22 @@ I began my programming journey as a kid with block-based game development in MIT
 
 ### 🎬 Relevant Linkedin Posts
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![The Survey, NuPhy Air75 v2 and The PARA Method](https://ytcards.demolab.com/?id=Y_1rRCQ-vBs&title=The+Survey%2C+NuPhy+Air75+v2+and+The+PARA+Method&lang=en&timestamp=1718443810&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=272 "The Survey, NuPhy Air75 v2 and The PARA Method")](https://www.youtube.com/watch?v=Y_1rRCQ-vBs)
-[![Unboxing $1000 Reeflex Lenses: Transform Your Mobile Shots!](https://ytcards.demolab.com/?id=h-3l3vmW92s&title=Unboxing+%241000+Reeflex+Lenses%3A+Transform+Your+Mobile+Shots%21&lang=en&timestamp=1716886835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=695 "Unboxing $1000 Reeflex Lenses: Transform Your Mobile Shots!")](https://www.youtube.com/watch?v=h-3l3vmW92s)
-[![Creating an AMAZING GitHub Profile README: Step-by-Step Guide](https://ytcards.demolab.com/?id=dPuPTYIRALk&title=Creating+an+AMAZING+GitHub+Profile+README%3A+Step-by-Step+Guide&lang=en&timestamp=1712484903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=714 "Creating an AMAZING GitHub Profile README: Step-by-Step Guide")](https://www.youtube.com/watch?v=dPuPTYIRALk)
-[![NuPhy Air75 v2 Unboxed: One of The Best Keyboards Ever Made](https://ytcards.demolab.com/?id=aHJKk7ZfKE0&title=NuPhy+Air75+v2+Unboxed%3A+One+of+The+Best+Keyboards+Ever+Made&lang=en&timestamp=1700899200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58 "NuPhy Air75 v2 Unboxed: One of The Best Keyboards Ever Made")](https://www.youtube.com/watch?v=aHJKk7ZfKE0)
-[![GitHub’s Online Code Editor is AMAZING!](https://ytcards.demolab.com/?id=moLblm57Ouw&title=GitHub%E2%80%99s+Online+Code+Editor+is+AMAZING%21&lang=en&timestamp=1700584208&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24 "GitHub’s Online Code Editor is AMAZING!")](https://www.youtube.com/watch?v=moLblm57Ouw)
-[![AI Guardrail in Action! #Day7 #Shorts #devlog #shortvlog  #programmer #softwareengineer](https://ytcards.demolab.com/?id=cWfPksDRbw8&title=AI+Guardrail+in+Action%21+%23Day7+%23Shorts+%23devlog+%23shortvlog++%23programmer+%23softwareengineer&lang=en&timestamp=1700470825&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24 "AI Guardrail in Action! #Day7 #Shorts #devlog #shortvlog  #programmer #softwareengineer")](https://www.youtube.com/watch?v=cWfPksDRbw8)
-<!-- END YOUTUBE-CARDS -->
+<!-- BEGIN LINKEDIN-CARDS -->
+<p align="left">
+    <a href="URL_DO_PRIMEIRO_POST" style="display: flex; flex-direction: column">
+        <img src="https://placehold.co/600x400" width="200" alt="Descrição da primeira imagem">
+        <span>Subtítulo do primeiro post</span>
+    </a>
+    <a href="URL_DO_SEGUNDO_POST" style="display: flex; flex-direction: column">
+        <img src="https://placehold.co/600x400" width="200" alt="Descrição da segunda imagem">
+        <span>Subtítulo do segundo post</span>
+    </a>
+    <a href="URL_DO_TERCEIRO_POST" style="display: flex; flex-direction: column">
+        <img src="https://placehold.co/600x400" width="200" alt="Descrição da terceira imagem">
+        <span>Subtítulo do terceiro post</span>
+    </a>
+</p>
+<!-- END LINKEDIN-CARDS -->
 
 
 ### 📗 NetworkNews - News Letters
