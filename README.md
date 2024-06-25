@@ -31,7 +31,7 @@ I began my programming journey as a kid with block-based game development in MIT
     <summary><b>🛠️ Languages and Tools</b></summary>
     <br />
     <p align="left">
-        <img height=40 src="https://skillicons.dev/icons?i=typescript,javascript,python,java,html,css,tailwind,git,react,vite,next,nodejs,express,nest,postgres" />
+        <img height=40 src="https://skillicons.dev/icons?i=typescript,javascript,python,html,css,tailwind,git,react,vite,next,nodejs,express,nest,postgres" />
     </p>
 </details>
 
