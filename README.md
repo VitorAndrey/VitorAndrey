@@ -1,6 +1,7 @@
-![banner-thin](https://github.com/user-attachments/assets/a8294616-5988-4802-9b96-29cf6c650692)
+![banner-thin](https://github.com/user-attachments/assets/01261ae6-9869-47cc-b317-d42981756978)
 
 # 🚀 Vitor Andrey
+
 
 **`Full Stack Enginner`**
 
