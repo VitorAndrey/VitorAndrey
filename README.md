@@ -14,9 +14,9 @@
 ### 🔗 Connect With Me
 
 <br />
+    <a href="https://www.youtube.com/@vitor_andrey_ls" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/vitor-andrey-lopes-santos/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:vitor.andreylopes@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.youtube.com/@vitor_andrey_ls" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 ---
 
