@@ -1,5 +1,3 @@
-![banner-thin](https://github.com/user-attachments/assets/01261ae6-9869-47cc-b317-d42981756978)
-
 # 🚀 Vitor Andrey
 
 
