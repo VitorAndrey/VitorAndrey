@@ -5,7 +5,6 @@
 
 * ✉️ You can contact me at [vitor.andreylopes@gmail.com](mailto:vitor.andreylopes@gmail.com).
 * ❓ Ask me a question about programming at [my Instagram](https://www.instagram.com/vitor_andrey_ls/).
-* 🧠 Languages I **enjoy** coding with: Most of them (Not u Java)
 * 🤔 My other software related interests: 📱 Mobile, 💻 Desktop, 🧩 Games, 🕸️ Web & 🤖 AI.
 * ⚡ PC player.
 
