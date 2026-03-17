@@ -25,7 +25,7 @@ I began my programming journey exploring block-based game development in MIT App
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img height="40" src="https://skillicons.dev/icons?i=typescript,javascript,python,html,css,tailwind,git,react,vite,next,nodejs,express,nest,postgres" />
+  <img height="40" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,wordpress,nodejs,bun,nestjs,figma,postgres,claude,n8n" />
 </p>
 
 <br />
