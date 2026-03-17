@@ -1,3 +1,6 @@
+<img width="1584" height="396" alt="LinkedIn" src="https://github.com/user-attachments/assets/4e55de0e-5fa3-41ea-8395-b84b611eeab3" />
+
+
 # 🚀 Vitor Andrey
 
 
