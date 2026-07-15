@@ -1,31 +1,32 @@
-<img width="1584" height="396" alt="LinkedIn" src="https://github.com/user-attachments/assets/4e55de0e-5fa3-41ea-8395-b84b611eeab3" />
+<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/4e55de0e-5fa3-41ea-8395-b84b611eeab3" />
 
 <br />
 
-# 👋 Hi, I'm Vitor Andrey
-#### `Full Stack Engineer`
+# 👋 Olá, eu sou o Vitor Andrey
+#### `Desenvolvedor Full Stack`
 
 
-### ✨ About Me
+### ✨ Sobre mim
 
-I began my programming journey exploring block-based game development in MIT App Inventor, driven by curiosity for technology and a passion for problem-solving. My experience spans mobile, web, and desktop application development, primarily within the JavaScript ecosystem. I specialize in **Next.js**, **React Native**, **Node.js**, and **Electron.js**, leveraging their extensive libraries and the unique capabilities of the JavaScript environment.
+Desenvolvedor Full Stack desde 2022, do modelo de dados ao deploy. Construo **sistemas empresariais**, plataformas de gestão e **aplicações web/mobile**, de ERPs e automação a saúde suplementar. Liderei o desenvolvimento do **Viverá Saúde**, um sistema interno de uma operadora de saúde, modernizando um legado em PHP e Oracle com **Next.js, TypeScript, Node.js e PostgreSQL**, testes automatizados e dashboards. Foco em eficiência operacional, performance e resultado de negócio.
 
 <br />
 
-### 🔗 Connect With Me
+### 🔗 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-andrey-lopes-santos/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-vitorandrey.com-1A61E7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vitorandrey.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-andrey-ls/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor_andrey_ls/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vitor_andrey_ls)
 
-✉️ Reach me at [vitor.andreylopes@gmail.com](mailto:vitor.andreylopes@gmail.com)
+✉️ Fale comigo em [vitor.andreylopes@gmail.com](mailto:vitor.andreylopes@gmail.com)
 
 <br />
 
-### 🛠️ Languages & Tools
+### 🛠️ Linguagens & Ferramentas
 
 <p align="left">
-  <img height="40" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,wordpress,nodejs,bun,nestjs,figma,postgres,claude,n8n" />
+  <img height="40" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,tailwind,postgres,mongodb,prisma,docker,linux,redis,git,figma,expo" />
 </p>
 
 <br />
