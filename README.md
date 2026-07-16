@@ -8,7 +8,11 @@
 
 ### ✨ Sobre mim
 
-Desenvolvedor Full Stack desde 2022, do modelo de dados ao deploy. Construo **sistemas empresariais**, plataformas de gestão e **aplicações web/mobile**, de ERPs e automação a saúde suplementar. Liderei o desenvolvimento do **Viverá Saúde**, um sistema interno de uma operadora de saúde, modernizando um legado em PHP e Oracle com **Next.js, TypeScript, Node.js e PostgreSQL**, testes automatizados e dashboards. Foco em eficiência operacional, performance e resultado de negócio.
+Atuo desde 2022 com aplicações web/mobile e sistemas empresariais, do modelo de dados ao deploy. Arquitetei
+plataformas de gestão que registraram mais de R$ 2 milhões em operações financeiras e liderei o
+desenvolvimento de um sistema interno em uma operadora de saúde, modernizando sistemas em PHP e Oracle
+com TypeScript, React, Node.js e PostgreSQL, testes automatizados, análise de dados e relatórios gerenciais.
+
 
 <br />
 
