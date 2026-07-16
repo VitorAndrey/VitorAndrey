@@ -24,16 +24,11 @@ Desenvolvedor Full Stack desde 2022, do modelo de dados ao deploy. Construo **si
 ### 🛠️ Linguagens & Ferramentas
 
 <p align="left">
-  <img height="40" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,tailwind,postgres,mongodb,prisma,docker,linux,redis,git,figma,expo" />
+  <img height="100" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,tailwind,postgres,mongodb,prisma,docker,linux,redis,git,figma,expo" />
 </p>
 
 <br />
 
 ### ⭐ GitHub Stats
-
-[![GitHub Followers](https://img.shields.io/github/followers/VitorAndrey?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/VitorAndrey)
-[![Total Stars](https://custom-icon-badges.demolab.com/github/stars/VitorAndrey?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/VitorAndrey?tab=repositories&sort=stargazers)
-
-<br />
 
 [![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorAndrey&hide=css,html&layout=compact&langs_count=8&card_width=400&title_color=1A61E7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/VitorAndrey)
