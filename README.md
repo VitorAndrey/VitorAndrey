@@ -16,8 +16,6 @@ Desenvolvedor Full Stack desde 2022, do modelo de dados ao deploy. Construo **si
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-vitorandrey.com-1A61E7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vitorandrey.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-andrey-ls/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor_andrey_ls/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vitor_andrey_ls)
 
 ✉️ Fale comigo em [vitor.andreylopes@gmail.com](mailto:vitor.andreylopes@gmail.com)
 
